@@ -7,3 +7,4 @@ read var1;
 chsh -s $var1;
 su -;
 echo "Now your default shell changed to $SHELL;
+echo "Thank You"
